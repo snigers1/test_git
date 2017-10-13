@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Тест Задание</title>
+</head>
+<body>
+	<header>
+		<h1>
+			HEADER
+		</h1>
+		<div class="phone">
+			<a href="tel:+3805434523">
+				+3805434523
+			</a>
+		</div>
+		<div class="headerLogo">
+			<img src="img/logo small.png" alt="Logo">
+		</div>
+		<div class="headerMenu">
+			<a href="#">Login</a>
+			<a href="#">About</a>
+			<a href="#">Contacts</a>
+		</div>
+	</header>
+	<section class="row">
+		<div class="container">
+			<div class="titlePost">
+				<h3>Title post</h3>
+				<div class="date">20.12.2017</div>
+			</div>
+			<div class="imageContainer"><img src="img/logo.png" alt="Img"></div>
+			<div class="infoContainer">
+				<p>Lorem ipsum dolor sit amet.</p>
+				<p>Lorem ipsum dolor sit amet.</p>
+				<p>Lorem ipsum dolor sit amet.</p>
+			</div>
+		</div>
+		<nav>
+			<div class="wrapperNav">
+				<h2>
+					Navigation
+				</h2>
+			</div>
+			<ul>
+				<li><a href="#">Item 1</a></li>
+				<li><a href="#">Item 2</a></li>
+				<li><a href="#">Item 3</a></li>
+				<li><a href="#">Item 4</a></li>
+			</ul>
+			<div class="info">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel, porro.</div>
+		</nav>
+		<div class="wrapperBlock">
+			<div class="block">
+				<h4>Title block</h4>
+				<div class="text">Lorem ipsum dolor sit amet.</div>
+				<div class="text">Lorem ipsum dolor sit amet.</div>
+			</div>
+			<div class="block">
+				<h4>Title block</h4>
+			</div>
+			<div class="block">
+				<h4>Title block</h4>
+				<div class="text">Lorem ipsum dolor sit amet.</div>
+				<div class="text">Lorem ipsum dolor sit amet.</div>
+			</div>
+		</div>
+	</section>
+	<footer>
+		<div class="logoFooter">
+			<img src="img/logo small.png" alt="Logo">
+		</div>
+		<div class="titleFooter">
+			<h3>Title Footer</h3>
+		</div>
+		<div class="search">
+			<form action="">
+				<input type="search" placeholder="Search">
+			</form>
+		</div>
+		<div class="footerr">
+			<div class="sub">
+				Sub Footer
+			</div>
+			<div class="copy">
+				&copy;
+			</div>
+			<div class="phone">
+				<a href="tel:+3805434523">
+					+3805434523
+				</a>
+			</div>
+		</div>
+	</footer>
+</body>
+</html>
